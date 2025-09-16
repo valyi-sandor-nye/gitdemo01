@@ -1,2 +1,5 @@
 pear
 grape
+apple
+datel
+melone
